@@ -1,0 +1,6 @@
+C:\projects\poc\poc\bin\Debug\poc.exe
+C:\projects\poc\poc\bin\Debug\poc.pdb
+C:\projects\poc\poc\obj\x86\Debug\poc.exe
+C:\projects\poc\poc\obj\x86\Debug\poc.pdb
+C:\projects\poc\poc\bin\Debug\poc.exe.config
+C:\projects\poc\poc\obj\x86\Debug\poc.csprojResolveAssemblyReference.cache
